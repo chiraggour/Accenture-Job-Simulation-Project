@@ -14,4 +14,6 @@ Used NumPy and Pandas to clean, model, and join different datasets. Utilized Mat
 * Monthly trends in user activity
 
 
- 
+ ## Insights Gained:
+
+ <img width="1262" alt="Screenshot 2024-10-14 at 3 03 53 PM" src="https://github.com/user-attachments/assets/9f940e26-4c13-4d0f-8e03-5d8ebcaca21b">
